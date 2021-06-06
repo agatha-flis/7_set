@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../src/set.cpp
+set.h
+../src/set.h
+
+../src/set.h
+iostream
+-
+
+/home/agata/Documents/mp7b/main.cpp
+set.h
+/home/agata/Documents/mp7b/set.h
+set.cpp
+/home/agata/Documents/mp7b/set.cpp
+

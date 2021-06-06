@@ -1,0 +1,2 @@
+/usr/bin/ar qc lib/libmp7b_src.a  CMakeFiles/mp7b_src.dir/src/set.cpp.o
+/usr/bin/ranlib lib/libmp7b_src.a

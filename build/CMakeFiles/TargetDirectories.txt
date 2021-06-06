@@ -1,0 +1,5 @@
+/home/agata/Documents/mp7b/build/CMakeFiles/rebuild_cache.dir
+/home/agata/Documents/mp7b/build/CMakeFiles/edit_cache.dir
+/home/agata/Documents/mp7b/build/CMakeFiles/tests.dir
+/home/agata/Documents/mp7b/build/CMakeFiles/mp7b.dir
+/home/agata/Documents/mp7b/build/CMakeFiles/mp7b_src.dir
